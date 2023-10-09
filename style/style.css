@@ -2,6 +2,7 @@
 
 body {
   font-family: 'Montserrat';
+  width: 100vw;
 }
 .bgimage {
   background-image: url(../img/snapedit_1696789125826.png);
