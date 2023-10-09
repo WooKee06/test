@@ -3,6 +3,7 @@
 body {
   font-family: 'Montserrat';
   width: 100vw;
+  
 }
 .bgimage {
   background-image: url(../img/snapedit_1696789125826.png);
@@ -490,5 +491,14 @@ body {
   }
   .images2 {
     margin-left: 16px;
+  }
+  .main {
+    height: 140vh;
+  }
+  .priceTxt4 {
+    display: none;
+  }
+  .priceTxt3 {
+    display: none;
   }
 }
